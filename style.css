@@ -1,0 +1,10 @@
+body
+{
+    background-size: cover;
+}
+
+canvas
+{
+    border: 2px solid darkred;
+    background-color: darkblue;
+}
